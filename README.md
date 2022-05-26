@@ -1,5 +1,5 @@
 # Instagram Clone
-> Flutter app which was created for learning purposes. Simple app in which you can check actual world time in different countires in the wolrd. It works on free API.   
+> Flutter app which was created for learning purposes. Simple app in which you can check current world time in different countires in the wolrd. It works on free API.   
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
