@@ -1,17 +1,42 @@
-# world_time
+# Instagram Clone
+> Flutter app which was created for learning purposes. Simple app in which you can check actual world time in different countires in the wolrd. It works on free API.   
 
-A new Flutter project.
+## Table of Contents
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Setup](#setup)
+* [Project Status](#project-status)
+* [Contact](#contact)
+<!-- * [License](#license) -->
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Technologies Used
+- Flutter
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# world-time
+## Features
+List the ready features here:
+- Checking current time in different countires in the world
+- You can also see if it's the night or a day in some places and app changes it's theme
+
+
+
+## Setup
+It's mobile app created for iOS and Android users.
+
+
+
+
+## Project Status
+Project is: _finished_.
+
+
+
+
+## Contact
+Feel free to contact me! 
+
+
+<!-- ## License -->
+<!-- ALL RIGHTS RESERVED-->
